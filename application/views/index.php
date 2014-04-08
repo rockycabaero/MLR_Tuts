@@ -6,19 +6,21 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800" rel="stylesheet" type="text/css" />
-		<script src="<?=base_url()?>assets/js/jquery.min.js"></script>
-		<script src="<?=base_url()?>assets/js/jquery.dropotron.min.js"></script>
-		<script src="<?=base_url()?>assets/js/config.js"></script>
-		<script src="<?=base_url()?>assets/js/skel.min.js"></script>
-		<script src="<?=base_url()?>assets/js/skel-panels.min.js"></script>
+		<script src="<?=base_url()?>js/jquery.min.js"></script>
+		<script src="<?=base_url()?>js/jquery.dropotron.min.js"></script>
+		<script src="<?=base_url()?>js/config.js"></script>
+		<script src="<?=base_url()?>js/skel.min.js"></script>
+		<script src="<?=base_url()?>js/skel-panels.min.js"></script>
 		<noscript>
-			<link rel="stylesheet" href="<?=base_url()?>assets/css/skel-noscript.css" />
-			<link rel="stylesheet" href="<?=base_url()?>assets/css/style.css" />
-			<link rel="stylesheet" href="<?=base_url()?>assets/css/style-desktop.css" />
+			<link rel="stylesheet" href="<?=base_url()?>css/skel-noscript.css" />
+			<link rel="stylesheet" href="<?=base_url()?>css/style.css" />
+			<link rel="stylesheet" href="<?=base_url()?>css/style-desktop.css" />
 		</noscript>
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
+                
+                
 	</head>
 	<body class="left-sidebar">
 
@@ -27,7 +29,6 @@
 				<div class="container">
 					<div class="row">
 						<div class="12u">
-						
 							<!-- Header -->
 								<header id="header">
 									<div class="inner">
@@ -61,7 +62,6 @@
 													<li><a href="no-sidebar.html">No Sidebar</a></li>
 												</ul>
 											</nav>
-									
 									</div>
 								</header>
 
