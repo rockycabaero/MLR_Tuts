@@ -374,3 +374,7 @@
 .flexslider .flex-direction-nav > li:first-child {
     display: none;
 }
+
+.angular-view {
+    min-height: 500px;
+}
